@@ -1,3 +1,3 @@
 # odin-recipes
 
-# Sharpening my HTML/CSS skills.
+<p>Sharpening my HTML/CSS skills.</p>
